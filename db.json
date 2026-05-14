@@ -8,7 +8,7 @@
       "rating": 4.8,
       "level": "Beginner",
       "description": "Learn full-stack web development from scratch.",
-      "image": "https://i.postimg.cc/4xK1bBwM/web-course.jpg",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop",
       "category": "Development"
     },
     {
@@ -19,7 +19,7 @@
       "rating": 4.9,
       "level": "Intermediate",
       "description": "Build modern React and Next.js applications with real projects.",
-      "image": "https://i.postimg.cc/W1TnM5nD/react-course.jpg",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=1200&auto=format&fit=crop",
       "category": "Frontend"
     },
     {
@@ -30,7 +30,7 @@
       "rating": 4.7,
       "level": "Intermediate",
       "description": "Create RESTful APIs using Node.js, Express, and MongoDB.",
-      "image": "https://i.postimg.cc/L6XDM1bD/node-course.jpg",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&auto=format&fit=crop",
       "category": "Backend"
     },
     {
@@ -41,7 +41,7 @@
       "rating": 4.6,
       "level": "Beginner",
       "description": "Understand the basics of user interface and user experience design.",
-      "image": "https://i.postimg.cc/Zqj0m9Xe/uiux-course.jpg",
+      "image": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=1200&auto=format&fit=crop",
       "category": "Design"
     },
     {
@@ -52,7 +52,7 @@
       "rating": 4.9,
       "level": "Advanced",
       "description": "Analyze data and build machine learning models using Python.",
-      "image": "https://i.postimg.cc/fL21wM9d/python-course.jpg",
+      "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?q=80&w=1200&auto=format&fit=crop",
       "category": "Data Science"
     },
     {
@@ -63,7 +63,7 @@
       "rating": 4.5,
       "level": "Beginner",
       "description": "Learn SEO, social media marketing, and online advertising basics.",
-      "image": "https://i.postimg.cc/0Q0n3K0x/marketing-course.jpg",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop",
       "category": "Marketing"
     }
   ]
